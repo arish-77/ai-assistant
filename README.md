@@ -31,6 +31,8 @@ An AI-powered web application that enables users to interact with an intelligent
 - Render
 
 ## 📂 Project Structure
+
+```text
 project/
 │
 ├── static/
